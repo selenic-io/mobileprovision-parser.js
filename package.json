@@ -1,0 +1,33 @@
+{
+  "name": "mobileprovision-parser",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "JavaScript library to parse Apple MobileProvision files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selenic-io/mobileprovision-parser.js.git"
+  },
+  "keywords": [
+    "mobileprovision",
+    "parser",
+    "iOS",
+    "macOS",
+    "iPadOS",
+    "visionOS",
+    "Apple",
+    "Development"
+  ],
+  "author": "selenic-io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selenic-io/mobileprovision-parser.js/issues"
+  },
+  "homepage": "https://github.com/selenic-io/mobileprovision-parser.js#readme",
+  "dependencies": {
+    "entitlements-parser": "github:selenic-io/entitlements-parser.js"
+  }
+}
